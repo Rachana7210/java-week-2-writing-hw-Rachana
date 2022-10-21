@@ -1,0 +1,18 @@
+package HwPractice;
+
+public class Program_11_JavaPattern {
+    public static void main(String[] args) {
+        Program_11_JavaPattern t = new Program_11_JavaPattern();
+        System.out.println("---------------------------------------------");
+        t.Program3();
+    }
+
+    //Printing the java Pattern
+    public void Program3(){
+        System.out.println("J a v  v a");
+        System.out.println("j a a   v v a a");
+        System.out.println("J J aaaaa  V V aaaaa");
+        System.out.println("J J a  a V a a");
+
+    }
+}
